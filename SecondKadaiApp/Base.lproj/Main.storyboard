@@ -48,6 +48,9 @@
                             <constraint firstItem="mCs-9I-SOz" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="wdE-cc-BT8"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="textField" destination="2RZ-oN-8Qf" id="kbV-HE-ofK"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
